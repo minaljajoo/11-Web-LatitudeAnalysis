@@ -1,7 +1,8 @@
 # Unit 12 | Assignment - Web Visualization Dashboard (Latitude)
 
 A webpage visualization of LatitudeAnaysis
-http://minaljajoo.github.io/11-web/index.html
+https://minaljajoo.github.io/11-web/index.html
+
 
 ## Background
 
